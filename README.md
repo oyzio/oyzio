@@ -1,0 +1,5 @@
+- Hi, I’m @oyzio :)
+- Software engineering.
+- Java C# Python and Scala
+- @
+- Fun Fact ~ I bench 140kg
