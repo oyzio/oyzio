@@ -1,15 +1,7 @@
-i                Hello, I’m @oyzio :) 
--      Looking for all opportunities in computing 
-w               Computer Science 2nd Year
-a        https://www.linkedin.com/in/benanker
-n 
-t              (Fun Fact ~ I bench 140kg)
+### Hello, I’m @oyzio :)
 
-t
-o
+- Looking for all opportunities in computing
+- Computer Science 2nd Year
+- [LinkedIn](https://www.linkedin.com/in/benanker)
 
-l
-e
-a
-r
-n
+**Fun Fact**: I bench 140kg!
