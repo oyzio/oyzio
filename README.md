@@ -1,6 +1,6 @@
 ### Hello, I’m @oyzio :)
 
-- Looking for all opportunities in computing
+- Looking for opportunities in AI, Data and Full Stack Development
 - Computer Science 2nd Year
 - [LinkedIn](https://www.linkedin.com/in/benanker)
 
